@@ -33,7 +33,7 @@ The user is also encouraged to take action based on the results, with a message 
 
 1. **Clone or download** the project files to your local machine.
 2. **Open a terminal** in your project directory.
-3. Navigate to the directory where the `bmi-calculator.py` file is located.
+3. Navigate to the directory where the `bmi_calculator.py` file is located.
 4. **Run the program**:
    ```bash
-   python bmi-calculator.py
+   python bmi_calculator.py
